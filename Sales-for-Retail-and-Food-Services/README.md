@@ -45,7 +45,7 @@ To facilitate data management and analysis, a SQL database has been created to s
 
 ## Data Processing
 The data obtained from the U.S. government website might require some preprocessing to clean and transform it into a suitable format for analysis. SQL queries have been utilized to clean, filter, and transform the data as necessary. This ensures that the data used for the dashboard is accurate and reliable.
-![NAICS](https://github.com/VundelaBhavitha/Sales-for-Retail-and-Food-Services)
+
 
 
 
