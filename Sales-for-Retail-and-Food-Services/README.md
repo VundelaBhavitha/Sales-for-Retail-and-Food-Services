@@ -45,7 +45,7 @@ To facilitate data management and analysis, a SQL database has been created to s
 
 ## Data Processing
 The data obtained from the U.S. government website might require some preprocessing to clean and transform it into a suitable format for analysis. SQL queries have been utilized to clean, filter, and transform the data as necessary. This ensures that the data used for the dashboard is accurate and reliable.
-![NAICS](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services/assets/66141195/c897f5c5-e4ce-446f-8944-c0c0376fcee9)
+![NAICS](https://github.com/VundelaBhavitha/Sales-for-Retail-and-Food-Services)
 
 
 
@@ -64,6 +64,7 @@ The data obtained from the U.S. government website might require some preprocess
 **Filtering and Interactivity:** Interactive elements allowing users to filter data based on specific criteria and perform ad-hoc analysis.
 
 ## Technologies Used
+
 **SQL:** For data extraction, transformation, and loading into the database.
 
 **Database Management System:** PostgreSQL to host and manage the dataset.
@@ -76,14 +77,6 @@ The data obtained from the U.S. government website might require some preprocess
 **Conclusion**
 The Sales for Retail and Food Services in U.S.A. project provides a comprehensive analysis of sales data within the Retail and Food Services sectors. The use of SQL and data from the U.S. government website ensures data accuracy and reliability. The interactive dashboard offers a user-friendly interface to explore the data visually and gain valuable insights. This project is valuable for businesses, policymakers, and researchers looking to understand and leverage sales trends in the U.S.A.
 
-## Author
-- <ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>
-- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
-- <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
-- <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
-- <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
 
-## Contact me!
 
-If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Tushar Aggarwal](mailto:info@tushar-aggarwal.com). We would love to hear from you!
 
